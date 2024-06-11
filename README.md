@@ -1,3 +1,12 @@
+# 技术栈
+```
+node@18.16.0，便于后期学习Taro时，保持node版本一致
+
+react 18 + redux rtk + typescript + ant desigon 5
+因反向代理中间件http-proxy-middleware存在版本问题，目前最好固定版本为1.2.0
+启动端口改为3001，防止冲突。windows上的命令为setPORT=3001,mac上为PORT=3001
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
