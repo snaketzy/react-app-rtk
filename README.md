@@ -7,6 +7,16 @@ react 18 + redux rtk + typescript + ant desigon 5
 启动端口改为3001，防止冲突。windows上的命令为setPORT=3001,mac上为PORT=3001
 ```
 
+# 参考资料
+```
+react脚手架
+https://blog.csdn.net/guxin_duyin/article/details/127048203
+redux tools kit
+https://cn.redux.js.org/introduction/getting-started
+craco配置
+https://craco.js.org/docs/getting-started/
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
